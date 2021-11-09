@@ -1,3 +1,3 @@
-module github.com/sulaga/subjects/learn
+module github.com/sulaga/subjects
 
 go 1.17
